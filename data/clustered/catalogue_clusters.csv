@@ -1,0 +1,33 @@
+,marque,nom,puissance,longueur,nbPlaces,nbPortes,couleur,occasion,prix,Cluster
+0,Volvo,S80 T6,272,3.0,5,5,blanc,False,50500,3
+10,Volkswagen,Touran 2.0 FSI,150,2.0,7,5,rouge,False,27340,0
+21,Volkswagen,Polo 1.2 6V,55,0.0,5,3,blanc,False,12200,1
+35,Volkswagen,New Beatle 1.8,110,1.0,5,5,rouge,False,26630,0
+45,Volkswagen,Golf 2.0 FSI,150,1.0,5,5,blanc,False,22900,0
+50,Skoda,Superb 2.8 V6,193,3.0,5,5,rouge,False,31790,3
+55,Seat,Toledo 1.6,102,2.0,5,5,blanc,False,18880,0
+65,Saab,9.3 1.8T,150,2.0,5,5,gris,False,38600,0
+75,Renault,Vel Satis 3.5 V6,245,3.0,5,5,gris,False,49200,3
+85,Renault,Megane 2.0 16V,135,1.0,5,5,gris,False,22350,0
+95,Renault,Laguna 2.0T,170,2.0,5,5,gris,False,27300,0
+105,Renault,Espace 2.0T,165,2.0,7,5,noir,False,30350,0
+111,Peugeot,1007 1.4,75,0.0,5,5,noir,False,13750,1
+120,Nissan,Primera 1.6,109,2.0,5,5,noir,False,18650,0
+125,Nissan,Maxima 3.0 V6,200,3.0,5,5,noir,False,30000,3
+130,Nissan,Almera 1.8,115,1.0,5,5,gris,False,16450,0
+140,Mini,Copper 1.6 16V,115,0.0,5,5,gris,False,18200,1
+149,Mercedes,S500,306,3.0,5,5,bleu,False,101300,2
+155,Mercedes,A200,136,1.0,5,5,blanc,False,25900,0
+165,Lancia,Ypsilon 1.4 16V,90,0.0,5,3,rouge,False,13500,1
+175,Kia,Picanto 1.1,65,0.0,5,5,blanc,False,8990,1
+180,Jaguar,X-Type 2.5 V6,197,2.0,5,5,gris,False,37100,3
+190,Hyundaï,Matrix 1.6,103,2.0,7,5,bleu,False,15960,0
+195,Honda,FR-V 1.7,125,2.0,7,5,noir,False,19550,0
+205,Ford,Mondeo 1.8,125,2.0,5,5,bleu,False,23900,0
+214,Fiat,Croma 2.2,147,2.0,5,5,rouge,False,24780,0
+220,Daihatsu,Cuore 1.0,58,0.0,5,3,noir,False,8850,1
+225,Dacia,Logan 1.6 MPI,90,1.0,5,5,blanc,False,7500,1
+231,BMW,M5,507,3.0,5,5,gris,False,94800,2
+241,BMW,120i,150,1.0,5,5,bleu,False,35800,0
+251,Audi,A3 2.0 FSI,150,1.0,5,5,noir,False,28500,0
+261,Audi,A2 1.4,75,0.0,5,5,bleu,False,18310,1
